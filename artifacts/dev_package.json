@@ -7,7 +7,7 @@
 	},
 	"name": "test3183",
 	"description": null,
-	"ver": "24.10.29.1120",
+	"ver": "24.10.29.1234",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": false,
